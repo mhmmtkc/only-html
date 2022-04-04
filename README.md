@@ -4,4 +4,4 @@ This repo includes only html page
 
 This project purpose to create a html page for start to frontend web development
 
-[for clone this the repo](https://github.com/mhmmtkc/only-html/archive/refs/heads/main.zip)
+[click for clone this repo](https://github.com/mhmmtkc/only-html/archive/refs/heads/main.zip)
